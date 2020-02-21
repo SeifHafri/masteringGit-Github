@@ -1,2 +1,3 @@
 #testing the push & pull & contributions
-edited rightnow
+edited rightnow remotely
+edited locally
